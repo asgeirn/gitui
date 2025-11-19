@@ -7,6 +7,9 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## Unreleased
 
+### Added
+* ssh commit signing with ssh-agents [[@chirpcel](https://github.com/chirpcel)] ([#2188](https://github.com/extrawurst/gitui/issues/2188))
+
 ### Changed
 * use [tombi](https://github.com/tombi-toml/tombi) for all toml file formatting
 
